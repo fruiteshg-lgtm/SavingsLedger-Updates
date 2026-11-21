@@ -1,0 +1,10 @@
+{
+    "packageName":  "com.fruitesh.savingsledger",
+    "versionCode":  30,
+    "versionName":  "1.30",
+    "apkUrl":  "https://github.com/fruiteshg-lgtm/SavingsLedger-Updates/releases/download/v1.30/SavingsLedger-v1.30.apk",
+    "sha256":  "a705602beefa8de9b0f65a3ec033b0630ebe85452d0b8fd6ac04e29b385fa164",
+    "certSha256":  "9f8b11d76ec7e825fbf110a257c82a54fdc1b97fd9a559a8ff4d8a3dd4b268f2",
+    "mandatory":  false,
+    "notes":  "Savings Ledger v1.30 update available."
+}
